@@ -108,13 +108,13 @@ Considere uma topologia tree com profundidade (depth=4) e ramificação (fanout=
 
 #### Opening Host1 and Host2 Terminals
 
-![H1 and H2 Terminals](images/putty/h1-h2-terminals.png)
+![H1 and H2 Terminals](images/xterm/h1-h2-terminals.png)
 
 ---
 
 #### Setting Host1 as Server and Host2 as Client
 
-![H1 Server and H2 Client](images/putty/h1-h2-server-client.png)
+![H1 Server and H2 Client](images/xterm/h1-h2-server-client.png)
 
 
 
