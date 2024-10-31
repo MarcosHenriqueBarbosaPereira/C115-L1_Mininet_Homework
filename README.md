@@ -17,6 +17,7 @@ Repository for my learning homework for Mininet tool for C115 subject
     - [Setting Up Putty Connection](#setting-up-putty-connection)
     - [Login to Mininet through Putty](#login-to-mininet-through-putty)
     - [Opening Host1 and Host2 Terminals](#opening-host1-and-host2-terminals)
+    - [Setting Host1 as Server and Host2 as Client](#setting-host1-as-server-and-host2-as-client)
 
 
 
