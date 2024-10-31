@@ -89,31 +89,31 @@ Considere uma topologia tree com profundidade (depth=4) e ramificação (fanout=
 
 #### Setting Up Putty Connection
 
-![Putty Connection](images/mn-vm/putty-connection.png)
+![Putty Connection](images/putty/putty-connection.png)
 
 ---
 
 #### Login to Mininet Through Putty
 
-![Putty Mininet Login](images/mn-vm/login.png)
+![Putty Mininet Login](images/putty/login.png)
 
 ---
 
 #### Recreating Topology
 
-![Recreating Topology](images/mn-vm/recreating-topology.png)
+![Recreating Topology](images/putty/recreating-topology.png)
 
 ---
 
 #### Opening Host1 and Host2 Terminals
 
-![H1 and H2 Terminals](images/mn-vm/h1-h2-terminals.png)
+![H1 and H2 Terminals](images/putty/h1-h2-terminals.png)
 
 ---
 
 #### Setting Host1 as Server and Host2 as Client
 
-![H1 Server and H2 Client](images/mn-vm/h1-h2-server-client.png)
+![H1 Server and H2 Client](images/putty/h1-h2-server-client.png)
 
 
 
